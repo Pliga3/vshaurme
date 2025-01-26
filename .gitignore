@@ -1,0 +1,6 @@
+cat .gitignore
+
+git config --global core.excludesfile ~/.idea 
+
+[core]
+  excludesfile = ~/.idea 
